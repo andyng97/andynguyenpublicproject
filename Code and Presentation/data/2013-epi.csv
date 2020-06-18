@@ -1,0 +1,179 @@
+Code,Country,EPI Score,Year
+CHE,Switzerland,87.67,2013
+LUX,Luxembourg,83.29,2013
+AUS,Australia,82.4,2013
+SGP,Singapore,81.78,2013
+CZE,Czech Republic,81.47,2013
+DEU,Germany,80.47,2013
+ESP,Spain,79.79,2013
+AUT,Austria,78.32,2013
+SWE,Sweden,78.09,2013
+NOR,Norway,78.04,2013
+NLD,Netherlands,77.75,2013
+GBR,United Kingdom,77.35,2013
+DNK,Denmark,76.92,2013
+ISL,Iceland,76.5,2013
+SVN,Slovenia,76.43,2013
+NZL,New Zealand,76.41,2013
+PRT,Portugal,75.8,2013
+FIN,Finland,75.72,2013
+IRL,Ireland,74.67,2013
+EST,Estonia,74.66,2013
+SVK,Slovakia,74.45,2013
+ITA,Italy,74.36,2013
+GRC,Greece,73.28,2013
+CAN,Canada,73.14,2013
+ARE,United Arab Emirates,72.91,2013
+JPN,Japan,72.35,2013
+FRA,France,71.05,2013
+HUN,Hungary,70.28,2013
+CHL,Chile,69.93,2013
+POL,Poland,69.53,2013
+RS,Serbia,69.13,2013
+BLR,Belarus,67.69,2013
+USA,United States of America,67.52,2013
+MLT,Malta,67.42,2013
+SAU,Saudi Arabia,66.66,2013
+BEL,Belgium,66.61,2013
+BRN,Brunei Darussalam,66.49,2013
+CYP,Cyprus,66.23,2013
+ISR,Israel,65.78,2013
+LVA,Latvia,64.05,2013
+BGR,Bulgaria,64.01,2013
+KWT,Kuwait,63.94,2013
+KOR,South Korea,63.79,2013
+QAT,Qatar,63.03,2013
+HRV,Croatia,62.23,2013
+TWN,Taiwan,62.18,2013
+TON,Tonga,61.68,2013
+ARM,Armenia,61.67,2013
+LTU,Lithuania,61.26,2013
+EGY,Egypt,61.11,2013
+MYS,Malaysia,59.31,2013
+TUN,Tunisia,58.99,2013
+ECU,Ecuador,58.54,2013
+CRI,Costa Rica,58.53,2013
+JAM,Jamaica,58.26,2013
+MUS,Mauritius,58.09,2013
+VEN,Venezuela,57.8,2013
+PAN,Panama,56.84,2013
+KIR,Kiribati,55.82,2013
+JOR,Jordan,55.78,2013
+SYC,Seychelles,55.56,2013
+ME,Montenegro,55.52,2013
+AZE,Azerbaijan,55.47,2013
+CUB,Cuba,55.07,2013
+MEX,Mexico,55.03,2013
+TUR,Turkey,54.91,2013
+ALB,Albania,54.73,2013
+SYR,Syria,54.5,2013
+LKA,Sri Lanka,53.88,2013
+URY,Uruguay,53.61,2013
+SUR,Suriname,53.57,2013
+ZAF,South Africa,53.51,2013
+RUS,Russia,53.45,2013
+MDA,Moldova,53.36,2013
+DOM,Dominican Republic,53.24,2013
+FJI,Fiji,53.08,2013
+BRA,Brazil,52.97,2013
+THA,Thailand,52.83,2013
+TTO,Trinidad and Tobago,52.28,2013
+PLW,Palau,51.96,2013
+MAR,Morocco,51.89,2013
+BHR,Bahrain,51.83,2013
+IRN,Iran,51.08,2013
+KAZ,Kazakhstan,51.07,2013
+COL,Colombia,50.77,2013
+ROU,Romania,50.52,2013
+BOL,Bolivia,50.48,2013
+BLZ,Belize,50.46,2013
+MKD,Macedonia,50.41,2013
+NIC,Nicaragua,50.32,2013
+LBN,Lebanon,50.15,2013
+DZA,Algeria,50.08,2013
+ARG,Argentina,49.55,2013
+ZWE,Zimbabwe,49.54,2013
+UKR,Ukraine,49.01,2013
+ATG,Antigua and Barbuda,48.89,2013
+HND,Honduras,48.87,2013
+GTM,Guatemala,48.06,2013
+OMN,Oman,47.75,2013
+BWA,Botswana,47.6,2013
+GEO,Georgia,47.23,2013
+DMA,Dominica,47.08,2013
+BTN,Bhutan,46.86,2013
+GAB,Gabon,46.6,2013
+BHS,Bahamas,46.58,2013
+VUT,Vanuatu,45.88,2013
+BIH,Bosnia and Herzegovina,45.79,2013
+BRB,Barbados,45.5,2013
+TKM,Turkmenistan,45.07,2013
+PER,Peru,45.05,2013
+MNG,Mongolia,44.67,2013
+IDN,Indonesia,44.36,2013
+CPV,Cape Verde,44.07,2013
+PHL,Philippines,44.02,2013
+SLV,El Salvador,43.79,2013
+NAM,Namibia,43.71,2013
+UZB,Uzbekistan,43.23,2013
+CHN,China,43,2013
+CAF,Central African Republic,42.94,2013
+LBY,Libya,42.72,2013
+ZMB,Zambia,41.72,2013
+PNG,Papua New Guinea,41.09,2013
+GNQ,Equatorial Guinea,41.06,2013
+SEN,Senegal,40.83,2013
+KGZ,Kyrgyzstan,40.63,2013
+BFA,Burkina Faso,40.52,2013
+LAO,Laos,40.37,2013
+MWI,Malawi,40.06,2013
+CIV,Cote d'Ivoire,39.72,2013
+COG,Congo,39.44,2013
+ETH,Ethiopia,39.43,2013
+TLS,Timor-Leste,39.41,2013
+PRY,Paraguay,39.25,2013
+NGA,Nigeria,39.2,2013
+UGA,Uganda,39.18,2013
+VNM,Viet Nam,38.17,2013
+GUY,Guyana,38.07,2013
+SWZ,Swaziland,37.35,2013
+NPL,Nepal,37,2013
+KEN,Kenya,36.99,2013
+CMR,Cameroon,36.68,2013
+NER,Niger,36.28,2013
+TZA,Tanzania,36.19,2013
+GNB,Guinea-Bissau,35.98,2013
+KHM,Cambodia,35.44,2013
+RWA,Rwanda,35.41,2013
+GRD,Grenada,35.24,2013
+PAK,Pakistan,34.58,2013
+IRQ,Iraq,33.39,2013
+BEN,Benin,32.42,2013
+GHA,Ghana,32.07,2013
+SLB,Solomon Islands,31.63,2013
+COM,Comoros,31.39,2013
+TJK,Tajikistan,31.34,2013
+IND,India,31.23,2013
+TCD,Chad,31.02,2013
+YEM,Yemen,30.16,2013
+MOZ,Mozambique,29.97,2013
+GMB,Gambia,29.3,2013
+AGO,Angola,28.69,2013
+DJI,Djibouti,28.52,2013
+GIN,Guinea,28.03,2013
+TGO,Togo,27.91,2013
+MMR,Myanmar,27.44,2013
+MRT,Mauritania,27.19,2013
+MDG,Madagascar,26.7,2013
+BDI,Burundi,25.78,2013
+ERI,Eritrea,25.76,2013
+BGD,Bangladesh,25.61,2013
+COD,Dem. Rep. Congo,25.01,2013
+SDN,Sudan,24.64,2013
+LBR,Liberia,23.95,2013
+SLE,Sierra Leone,21.74,2013
+AFG,Afghanistan,21.57,2013
+LSO,Lesotho,20.81,2013
+HTI,Haiti,19.01,2013
+MLI,Mali,18.43,2013
+SOM,Somalia,15.47,2013
